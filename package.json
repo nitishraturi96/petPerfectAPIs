@@ -1,0 +1,13 @@
+{
+  "name": "service-base",
+  "version": "0.0.0",
+  "private": true,
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "devDependencies": {}
+}
+  
