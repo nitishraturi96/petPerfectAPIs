@@ -6,7 +6,10 @@
     "node": "*"
   },
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "body-parser": "*",
+    "2factor": "*",
+    "q": "*"
   },
   "devDependencies": {}
 }
